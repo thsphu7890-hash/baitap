@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|D:\\ThaiVinhPhu_2123110509\\Battle_City\\play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\highscoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,40 +15,72 @@
       "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\battle_city.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:battle_city.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\play_level.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:play_level.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|D:\\ThaiVinhPhu_2123110509\\Battle_City\\play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|D:\\ThaiVinhPhu_2123110509\\Battle_City\\mapeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:mapeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\mapeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:mapeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\class_game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:class_game\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\mapeditor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:mapeditor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\battle_city.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:battle_city.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\play_level.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C4E9F57-C242-4798-B301-586D302164C8}|Battle_City.csproj|solutionrelative:play_level.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,65 +90,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 328,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Battle_City",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
-              "RelativeDocumentMoniker": "Battle_City.csproj",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
-              "RelativeToolTip": "Battle_City.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-28T14:21:53.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Enemy.cs",
-              "RelativeDocumentMoniker": "Enemy.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Enemy.cs",
-              "RelativeToolTip": "Enemy.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T06:20:03.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Play_Level.cs [Design]",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs",
-              "RelativeDocumentMoniker": "Play_Level.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs [Design]",
-              "RelativeToolTip": "Play_Level.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T03:49:59.954Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.cs [Design]",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs [Design]",
-              "RelativeToolTip": "Main.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T03:41:43.593Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HighScoreManager.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\HighScoreManager.cs",
+              "RelativeDocumentMoniker": "Class_game\\HighScoreManager.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\HighScoreManager.cs",
+              "RelativeToolTip": "Class_game\\HighScoreManager.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T00:46:19.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAIwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T04:25:58.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Play_Level.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs",
               "RelativeDocumentMoniker": "Play_Level.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs",
               "RelativeToolTip": "Play_Level.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAADwv1IBAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-27T04:20:18.922Z",
               "EditorCaption": ""
@@ -132,81 +138,193 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Main.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs",
-              "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs",
-              "RelativeToolTip": "Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T04:25:58.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SoundManager.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\SoundManager.cs",
-              "RelativeDocumentMoniker": "SoundManager.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\SoundManager.cs",
-              "RelativeToolTip": "SoundManager.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T11:51:18.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T06:20:40.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Wall.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Wall.cs",
-              "RelativeDocumentMoniker": "Wall.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Wall.cs",
-              "RelativeToolTip": "Wall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T06:17:18.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Explosion.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Explosion.cs",
-              "RelativeDocumentMoniker": "Explosion.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Explosion.cs",
-              "RelativeToolTip": "Explosion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T06:18:45.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Main.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.Designer.cs",
               "RelativeDocumentMoniker": "Main.Designer.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.Designer.cs",
               "RelativeToolTip": "Main.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T03:48:01.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T03:48:01.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs [Design]",
+              "RelativeToolTip": "Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T03:41:43.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Explosion.cs",
+              "RelativeDocumentMoniker": "Class_game\\Explosion.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Explosion.cs",
+              "RelativeToolTip": "Class_game\\Explosion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T06:18:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Play_Level.Designer.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.Designer.cs",
+              "RelativeDocumentMoniker": "Play_Level.Designer.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.Designer.cs",
+              "RelativeToolTip": "Play_Level.Designer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T04:07:52.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Play_Level.cs [Design]",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs",
+              "RelativeDocumentMoniker": "Play_Level.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs [Design]",
+              "RelativeToolTip": "Play_Level.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T03:49:59.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Class_game\\SoundManager.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\SoundManager.cs",
+              "RelativeToolTip": "Class_game\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T11:51:18.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Enemy.cs",
+              "RelativeDocumentMoniker": "Class_game\\Enemy.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Enemy.cs",
+              "RelativeToolTip": "Class_game\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T06:20:03.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Wall.cs",
+              "RelativeDocumentMoniker": "Class_game\\Wall.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Wall.cs",
+              "RelativeToolTip": "Class_game\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T06:17:18.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Bullet.cs",
+              "RelativeDocumentMoniker": "Class_game\\Bullet.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Bullet.cs",
+              "RelativeToolTip": "Class_game\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T06:16:46.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "MapEditor.cs [Design]",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\MapEditor.cs",
+              "RelativeDocumentMoniker": "MapEditor.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\MapEditor.cs [Design]",
+              "RelativeToolTip": "MapEditor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T10:02:39.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Player.cs",
+              "RelativeDocumentMoniker": "Class_game\\Player.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\Player.cs",
+              "RelativeToolTip": "Class_game\\Player.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T06:20:40.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MapEditor.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\MapEditor.cs",
+              "RelativeDocumentMoniker": "MapEditor.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\MapEditor.cs",
+              "RelativeToolTip": "MapEditor.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T10:07:12.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\GameObject.cs",
+              "RelativeDocumentMoniker": "Class_game\\GameObject.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\GameObject.cs",
+              "RelativeToolTip": "Class_game\\GameObject.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T09:18:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MapEditor.Designer.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\MapEditor.Designer.cs",
+              "RelativeDocumentMoniker": "MapEditor.Designer.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\MapEditor.Designer.cs",
+              "RelativeToolTip": "MapEditor.Designer.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAmwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T10:05:03.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Main.resx",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.resx",
+              "RelativeDocumentMoniker": "Main.resx",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.resx",
+              "RelativeToolTip": "Main.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-17T09:54:50.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Battle_City",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
+              "RelativeDocumentMoniker": "Battle_City.csproj",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
+              "RelativeToolTip": "Battle_City.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T14:21:53.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -215,31 +333,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-27T03:49:14.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Bullet.cs",
-              "RelativeDocumentMoniker": "Bullet.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Bullet.cs",
-              "RelativeToolTip": "Bullet.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T06:16:46.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Play_Level.Designer.cs",
-              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.Designer.cs",
-              "RelativeDocumentMoniker": "Play_Level.Designer.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.Designer.cs",
-              "RelativeToolTip": "Play_Level.Designer.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAowJEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T04:07:52.048Z",
-              "EditorCaption": ""
             }
           ]
         },

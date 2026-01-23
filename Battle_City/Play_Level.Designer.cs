@@ -2,145 +2,108 @@
 {
     partial class Play_Level
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
-            if (disposing && (components != null))
-            {
-                components.Dispose();
-            }
+            if (disposing && (components != null)) components.Dispose();
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
-
-        /// <summary>
-        /// Required method for Designer support - do not modify
-        /// the contents of this method with the code editor.
-        /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            pnlMap = new Panel();
-            pnlInfo = new Panel();
-            lblStage = new Label();
-            pictureBox2 = new PictureBox();
-            pictureBox1 = new PictureBox();
-            label2 = new Label();
-            label1 = new Label();
-            timer1 = new System.Windows.Forms.Timer(components);
-            pnlInfo.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
-            SuspendLayout();
-            // 
-            // pnlMap
-            // 
-            pnlMap.BackColor = Color.Black;
-            pnlMap.Location = new Point(0, 0);
-            pnlMap.Name = "pnlMap";
-            pnlMap.Size = new Size(600, 600);
-            pnlMap.TabIndex = 0;
-            // 
-            // pnlInfo
-            // 
-            pnlInfo.BackColor = Color.Silver;
-            pnlInfo.Controls.Add(lblStage);
-            pnlInfo.Controls.Add(pictureBox2);
-            pnlInfo.Controls.Add(pictureBox1);
-            pnlInfo.Controls.Add(label2);
-            pnlInfo.Controls.Add(label1);
-            pnlInfo.Location = new Point(600, 0);
-            pnlInfo.Name = "pnlInfo";
-            pnlInfo.Size = new Size(200, 600);
-            pnlInfo.TabIndex = 1;
-            // 
-            // lblStage
-            // 
-            lblStage.AutoSize = true;
-            lblStage.Font = new Font("Impact", 20F);
-            lblStage.Location = new Point(80, 450);
-            lblStage.Name = "lblStage";
-            lblStage.Size = new Size(31, 42);
-            lblStage.TabIndex = 4;
-            lblStage.Text = "1";
-            // 
-            // pictureBox2
-            // 
-            pictureBox2.Image = Properties.Resources.flag_removebg_preview;
-            pictureBox2.Location = new Point(30, 450);
-            pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(40, 40);
-            pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox2.TabIndex = 3;
-            pictureBox2.TabStop = false;
-            // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = Properties.Resources.tank_removebg_preview;
-            pictureBox1.Location = new Point(30, 300);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(40, 40);
-            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox1.TabIndex = 2;
-            pictureBox1.TabStop = false;
-            // 
-            // label2
-            // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Arial", 14F, FontStyle.Bold);
-            label2.Location = new Point(75, 250);
-            label2.Name = "label2";
-            label2.Size = new Size(42, 29);
-            label2.TabIndex = 1;
-            label2.Text = "1P";
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Arial", 12F, FontStyle.Bold);
-            label1.Location = new Point(50, 30);
-            label1.Name = "label1";
-            label1.Size = new Size(98, 24);
-            label1.TabIndex = 0;
-            label1.Text = "ENEMIES";
-            // 
-            // Play_Level
-            // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
-            AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 600);
-            Controls.Add(pnlInfo);
-            Controls.Add(pnlMap);
-            FormBorderStyle = FormBorderStyle.FixedSingle;
-            MaximizeBox = false;
-            Name = "Play_Level";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "Battle City - Playing";
-            pnlInfo.ResumeLayout(false);
-            pnlInfo.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
-            ResumeLayout(false);
-        }
+            this.components = new System.ComponentModel.Container();
+            this.pnlMap = new System.Windows.Forms.Panel();
+            this.pnlInfo = new System.Windows.Forms.Panel();
+            this.lblStage = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
 
-        #endregion
+            this.pnlInfo.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            this.SuspendLayout();
+
+            // pnlMap
+            this.pnlMap.BackColor = System.Drawing.Color.Black;
+            this.pnlMap.Location = new System.Drawing.Point(0, 0);
+            this.pnlMap.Name = "pnlMap";
+            this.pnlMap.Size = new System.Drawing.Size(600, 600);
+            this.pnlMap.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlMap_Paint);
+
+            // pnlInfo
+            this.pnlInfo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.pnlInfo.Controls.Add(this.lblStage);
+            this.pnlInfo.Controls.Add(this.pictureBox2);
+            this.pnlInfo.Controls.Add(this.pictureBox1);
+            this.pnlInfo.Controls.Add(this.label2);
+            this.pnlInfo.Controls.Add(this.label1);
+            this.pnlInfo.Location = new System.Drawing.Point(600, 0);
+            this.pnlInfo.Name = "pnlInfo";
+            this.pnlInfo.Size = new System.Drawing.Size(200, 600);
+
+            // label1 (ENEMIES)
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Consolas", 14F, System.Drawing.FontStyle.Bold);
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(50, 30);
+            this.label1.Text = "ENEMIES";
+
+            // label2 (1P)
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Consolas", 16F, System.Drawing.FontStyle.Bold);
+            this.label2.ForeColor = System.Drawing.Color.Orange;
+            this.label2.Location = new System.Drawing.Point(85, 245);
+            this.label2.Text = "1P";
+
+            // pictureBox1 (Tank Icon)
+            this.pictureBox1.Image = global::Battle_City.Properties.Resources.tank_removebg_preview;
+            this.pictureBox1.Location = new System.Drawing.Point(50, 301);
+            this.pictureBox1.Size = new System.Drawing.Size(100, 60);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+
+            // pictureBox2 (Flag Icon)
+            this.pictureBox2.Image = global::Battle_City.Properties.Resources.flag_removebg_preview;
+            this.pictureBox2.Location = new System.Drawing.Point(50, 439);
+            this.pictureBox2.Size = new System.Drawing.Size(50, 50);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+
+            // lblStage
+            this.lblStage.AutoSize = true;
+            this.lblStage.Font = new System.Drawing.Font("Consolas", 24F, System.Drawing.FontStyle.Bold);
+            this.lblStage.ForeColor = System.Drawing.Color.Yellow;
+            this.lblStage.Location = new System.Drawing.Point(115, 442);
+            this.lblStage.Text = "1";
+
+            // Play_Level Form
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 600);
+            this.Controls.Add(this.pnlInfo);
+            this.Controls.Add(this.pnlMap);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.Name = "Play_Level";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Battle City - Pro Version";
+
+            this.pnlInfo.ResumeLayout(false);
+            this.pnlInfo.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            this.ResumeLayout(false);
+        }
 
         private System.Windows.Forms.Panel pnlMap;
         private System.Windows.Forms.Panel pnlInfo;
-        private System.Windows.Forms.Label label1; // Label ENEMIES
-        private System.Windows.Forms.Label label2; // Label 1P
-        private System.Windows.Forms.PictureBox pictureBox1; // Icon Tank Life
-        private System.Windows.Forms.PictureBox pictureBox2; // Icon Flag
-        private System.Windows.Forms.Label lblStage; // Số Level
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.Label lblStage;
         private System.Windows.Forms.Timer timer1;
     }
 }

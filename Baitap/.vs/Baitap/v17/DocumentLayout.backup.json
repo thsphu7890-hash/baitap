@@ -3,6 +3,51 @@
   "WorkspaceRootPath": "D:\\ThaiVinhPhu_2123110509\\Baitap\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\battle_city.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\explosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\play_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\resources\\start.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\resources\\tank-removebg-preview.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\resources\\flag-removebg-preview.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A65EED3-08FD-93B9-9135-464A481B0E1E}|..\\Battle_City\\Battle_City.csproj|d:\\thaivinhphu_2123110509\\battle_city\\battle_city.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|d:\\thaivinhphu_2123110509\\baitap\\ex23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,7 +56,7 @@
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex23.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|d:\\thaivinhphu_2123110509\\baitap\\ex23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|D:\\ThaiVinhPhu_2123110509\\Baitap\\ex23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -31,7 +76,7 @@
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex22.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|d:\\thaivinhphu_2123110509\\baitap\\ex22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|D:\\ThaiVinhPhu_2123110509\\Baitap\\ex22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -47,7 +92,7 @@
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|d:\\thaivinhphu_2123110509\\baitap\\ex21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|D:\\ThaiVinhPhu_2123110509\\Baitap\\ex21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -63,7 +108,7 @@
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex20.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|d:\\thaivinhphu_2123110509\\baitap\\ex20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|D:\\ThaiVinhPhu_2123110509\\Baitap\\ex20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -75,7 +120,7 @@
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex19.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|d:\\thaivinhphu_2123110509\\baitap\\ex19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|D:\\ThaiVinhPhu_2123110509\\Baitap\\ex19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{33886728-E400-4955-A196-60AEB5E1D906}|Baitap.csproj|solutionrelative:ex19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -194,16 +239,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 328,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Wall.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Wall.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Wall.cs",
+              "RelativeToolTip": "..\\Battle_City\\Wall.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:34:42.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Play_Level.cs [Design]",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Play_Level.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs [Design]",
+              "RelativeToolTip": "..\\Battle_City\\Play_Level.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:31:10.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Main.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs [Design]",
+              "RelativeToolTip": "..\\Battle_City\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:30:55.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Explosion.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Explosion.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Explosion.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Explosion.cs",
+              "RelativeToolTip": "..\\Battle_City\\Explosion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:30:33.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Bullet.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Bullet.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Bullet.cs",
+              "RelativeToolTip": "..\\Battle_City\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:30:38.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Battle_City.csproj",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Battle_City.csproj",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
+              "RelativeToolTip": "..\\Battle_City\\Battle_City.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-31T00:39:46.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Enemy.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Enemy.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Enemy.cs",
+              "RelativeToolTip": "..\\Battle_City\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:30:35.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Program.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Program.cs",
+              "RelativeToolTip": "..\\Battle_City\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:30:02.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Player.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Player.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Player.cs",
+              "RelativeToolTip": "..\\Battle_City\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:30:05.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\SoundManager.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\SoundManager.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\SoundManager.cs",
+              "RelativeToolTip": "..\\Battle_City\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:30:00.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Play_Level.cs",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Play_Level.cs",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Play_Level.cs",
+              "RelativeToolTip": "..\\Battle_City\\Play_Level.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwHoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:32:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "start.png",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Resources\\start.png",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Resources\\start.png",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Resources\\start.png",
+              "RelativeToolTip": "..\\Battle_City\\Resources\\start.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-31T00:31:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tank-removebg-preview.png",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Resources\\tank-removebg-preview.png",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Resources\\tank-removebg-preview.png",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Resources\\tank-removebg-preview.png",
+              "RelativeToolTip": "..\\Battle_City\\Resources\\tank-removebg-preview.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-31T00:31:34.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "flag-removebg-preview.png",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Resources\\flag-removebg-preview.png",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Resources\\flag-removebg-preview.png",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Resources\\flag-removebg-preview.png",
+              "RelativeToolTip": "..\\Battle_City\\Resources\\flag-removebg-preview.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-31T00:31:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Battle_City",
+              "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
+              "RelativeDocumentMoniker": "..\\Battle_City\\Battle_City.csproj",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Battle_City.csproj",
+              "RelativeToolTip": "..\\Battle_City\\Battle_City.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-31T00:31:22.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Ex23.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.cs",
               "RelativeDocumentMoniker": "Ex23.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.cs*",
-              "RelativeToolTip": "Ex23.cs*",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.cs",
+              "RelativeToolTip": "Ex23.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T06:54:00.602Z",
@@ -211,12 +434,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 16,
               "Title": "Ex23.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.Designer.cs",
               "RelativeDocumentMoniker": "Ex23.Designer.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.Designer.cs*",
-              "RelativeToolTip": "Ex23.Designer.cs*",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.Designer.cs",
+              "RelativeToolTip": "Ex23.Designer.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAowEwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T06:53:15.677Z",
@@ -224,19 +447,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "Ex23.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.cs",
               "RelativeDocumentMoniker": "Ex23.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.cs [Design]*",
-              "RelativeToolTip": "Ex23.cs [Design]*",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex23.cs [Design]",
+              "RelativeToolTip": "Ex23.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T06:49:43.976Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 20,
               "Title": "Ex22.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex22.cs",
               "RelativeDocumentMoniker": "Ex22.cs",
@@ -249,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "Ex22.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex22.Designer.cs",
               "RelativeDocumentMoniker": "Ex22.Designer.cs",
@@ -262,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 22,
               "Title": "Ex22.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex22.cs",
               "RelativeDocumentMoniker": "Ex22.cs",
@@ -274,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "Ex21.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex21.cs",
               "RelativeDocumentMoniker": "Ex21.cs",
@@ -287,32 +510,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:10:56.798Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-28T06:10:56.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAAAALQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:35:07.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T06:35:07.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "Ex21.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex21.Designer.cs",
               "RelativeDocumentMoniker": "Ex21.Designer.cs",
@@ -325,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
@@ -333,12 +554,11 @@
               "RelativeToolTip": "Employee.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T06:35:13.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:35:13.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "Ex21.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex21.cs",
               "RelativeDocumentMoniker": "Ex21.cs",
@@ -350,20 +570,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.Designer.cs*",
-              "RelativeToolTip": "Form1.Designer.cs*",
+              "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T06:30:03.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:30:03.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "Ex20.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex20.cs",
               "RelativeDocumentMoniker": "Ex20.cs",
@@ -376,7 +595,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 29,
               "Title": "Ex20.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex20.Designer.cs",
               "RelativeDocumentMoniker": "Ex20.Designer.cs",
@@ -389,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "Ex20.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex20.cs",
               "RelativeDocumentMoniker": "Ex20.cs",
@@ -401,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "Ex19.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex19.cs",
               "RelativeDocumentMoniker": "Ex19.cs",
@@ -414,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "Ex19.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex19.Designer.cs",
               "RelativeDocumentMoniker": "Ex19.Designer.cs",
@@ -427,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "Ex19.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex19.cs",
               "RelativeDocumentMoniker": "Ex19.cs",
@@ -439,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 34,
               "Title": "Ex18.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex18.cs",
               "RelativeDocumentMoniker": "Ex18.cs",
@@ -452,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 39,
               "Title": "Ex16.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex16.cs",
               "RelativeDocumentMoniker": "Ex16.cs",
@@ -465,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 38,
               "Title": "Ex17.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex17.cs",
               "RelativeDocumentMoniker": "Ex17.cs",
@@ -476,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 40,
               "Title": "Ex16.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex16.Designer.cs",
               "RelativeDocumentMoniker": "Ex16.Designer.cs",
@@ -484,11 +703,12 @@
               "RelativeToolTip": "Ex16.Designer.cs",
               "ViewState": "AgIAAKEAAAAAAAAAAAAwwMEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:51:10.703Z"
+              "WhenOpened": "2025-12-28T13:51:10.703Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 36,
               "Title": "Ex17.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex17.cs",
               "RelativeDocumentMoniker": "Ex17.cs",
@@ -496,23 +716,23 @@
               "RelativeToolTip": "Ex17.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAwwFsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:00:16.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T14:00:16.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "Ex18.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex18.cs",
               "RelativeDocumentMoniker": "Ex18.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex18.cs [Design]",
               "RelativeToolTip": "Ex18.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T14:04:16.331Z"
+              "WhenOpened": "2025-12-28T14:04:16.331Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 37,
               "Title": "Song.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Song.cs",
               "RelativeDocumentMoniker": "Song.cs",
@@ -524,18 +744,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 41,
               "Title": "Ex16.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex16.cs",
               "RelativeDocumentMoniker": "Ex16.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex16.cs [Design]",
               "RelativeToolTip": "Ex16.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:45:05.379Z"
+              "WhenOpened": "2025-12-28T13:45:05.379Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 45,
               "Title": "Ex14.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex14.cs",
               "RelativeDocumentMoniker": "Ex14.cs",
@@ -548,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 44,
               "Title": "Ex15.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex15.cs",
               "RelativeDocumentMoniker": "Ex15.cs",
@@ -559,18 +780,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 46,
               "Title": "Ex14.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex14.cs",
               "RelativeDocumentMoniker": "Ex14.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex14.cs [Design]",
               "RelativeToolTip": "Ex14.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:23:47.952Z"
+              "WhenOpened": "2025-12-28T13:23:47.952Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 43,
               "Title": "Ex15.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex15.Designer.cs",
               "RelativeDocumentMoniker": "Ex15.Designer.cs",
@@ -582,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 42,
               "Title": "Ex15.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex15.cs",
               "RelativeDocumentMoniker": "Ex15.cs",
@@ -594,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 47,
               "Title": "Ex14.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex14.Designer.cs",
               "RelativeDocumentMoniker": "Ex14.Designer.cs",
@@ -602,11 +824,12 @@
               "RelativeToolTip": "Ex14.Designer.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAowKIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:27:48.963Z"
+              "WhenOpened": "2025-12-28T13:27:48.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 50,
               "Title": "Ex13.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex13.cs",
               "RelativeDocumentMoniker": "Ex13.cs",
@@ -619,7 +842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 51,
               "Title": "Ex13.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex13.Designer.cs",
               "RelativeDocumentMoniker": "Ex13.Designer.cs",
@@ -627,11 +850,12 @@
               "RelativeToolTip": "Ex13.Designer.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAowEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:17:58.415Z"
+              "WhenOpened": "2025-12-28T13:17:58.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 49,
               "Title": "Faculty.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Faculty.cs",
               "RelativeDocumentMoniker": "Faculty.cs",
@@ -643,18 +867,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 48,
               "Title": "Ex13.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex13.cs",
               "RelativeDocumentMoniker": "Ex13.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex13.cs [Design]",
               "RelativeToolTip": "Ex13.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T13:16:27.156Z"
+              "WhenOpened": "2025-12-28T13:16:27.156Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 52,
               "Title": "Ex12.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex12.cs",
               "RelativeDocumentMoniker": "Ex12.cs",
@@ -665,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 53,
               "Title": "Ex12.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex12.cs",
               "RelativeDocumentMoniker": "Ex12.cs",
@@ -677,7 +902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 54,
               "Title": "Ex12.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex12.Designer.cs",
               "RelativeDocumentMoniker": "Ex12.Designer.cs",
@@ -689,7 +914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 55,
               "Title": "Ex11.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex11.Designer.cs",
               "RelativeDocumentMoniker": "Ex11.Designer.cs",
@@ -701,7 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "Ex09.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex09.cs",
               "RelativeDocumentMoniker": "Ex09.cs",
@@ -714,18 +939,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 59,
               "Title": "Ex09.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex09.cs",
               "RelativeDocumentMoniker": "Ex09.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex09.cs [Design]",
               "RelativeToolTip": "Ex09.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:13:55.711Z"
+              "WhenOpened": "2025-12-28T06:13:55.711Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 57,
               "Title": "Ex11.cs [Design]",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex11.cs",
               "RelativeDocumentMoniker": "Ex11.cs",
@@ -736,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 56,
               "Title": "Ex11.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex11.cs",
               "RelativeDocumentMoniker": "Ex11.cs",
@@ -748,7 +974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 60,
               "Title": "Ex09.Designer.cs",
               "DocumentMoniker": "D:\\ThaiVinhPhu_2123110509\\Baitap\\Ex09.Designer.cs",
               "RelativeDocumentMoniker": "Ex09.Designer.cs",
@@ -756,7 +982,8 @@
               "RelativeToolTip": "Ex09.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:13:52.368Z"
+              "WhenOpened": "2025-12-28T06:13:52.368Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -20,3 +20,4 @@ D:\ThaiVinhPhu_2123110509\Battle_City\obj\Debug\net8.0-windows\ref\Battle_City.d
 D:\ThaiVinhPhu_2123110509\Battle_City\obj\Debug\net8.0-windows\Interop.MediaPlayer.dll
 D:\ThaiVinhPhu_2123110509\Battle_City\obj\Debug\net8.0-windows\Interop.WMPLib.dll
 D:\ThaiVinhPhu_2123110509\Battle_City\obj\Debug\net8.0-windows\Battle_City.csproj.ResolveComReference.cache
+D:\ThaiVinhPhu_2123110509\Battle_City\obj\Debug\net8.0-windows\Battle_City.MapEditor.resources
