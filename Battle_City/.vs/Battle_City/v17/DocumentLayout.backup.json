@@ -104,7 +104,7 @@
               "RelativeDocumentMoniker": "Class_game\\HighScoreManager.cs",
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Class_game\\HighScoreManager.cs",
               "RelativeToolTip": "Class_game\\HighScoreManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwD0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-23T00:46:19.886Z",
               "EditorCaption": ""
@@ -132,7 +132,8 @@
               "RelativeToolTip": "Play_Level.cs",
               "ViewState": "AgIAAOcAAAAAAAAAAADwv1IBAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T04:20:18.922Z"
+              "WhenOpened": "2025-12-27T04:20:18.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,8 +145,7 @@
               "RelativeToolTip": "Main.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T03:48:01.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T03:48:01.601Z"
             },
             {
               "$type": "Document",
@@ -156,8 +156,7 @@
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.cs [Design]",
               "RelativeToolTip": "Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T03:41:43.593Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-27T03:41:43.593Z"
             },
             {
               "$type": "Document",
@@ -181,8 +180,7 @@
               "RelativeToolTip": "Play_Level.Designer.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwGwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-27T04:07:52.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-27T04:07:52.048Z"
             },
             {
               "$type": "Document",
@@ -311,8 +309,7 @@
               "ToolTip": "D:\\ThaiVinhPhu_2123110509\\Battle_City\\Main.resx",
               "RelativeToolTip": "Main.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-17T09:54:50.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T09:54:50.161Z"
             },
             {
               "$type": "Document",
